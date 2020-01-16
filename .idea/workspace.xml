@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="250aeb8f-87a4-4ec8-8354-8172fc6bbd8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Flowcontrols/flowcontrols/cloth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flowcontrols/flowcontrols/secondlargest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/even no.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/even_no_square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/for loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/nested for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/pattern 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/odd_no.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/prime_no b/w range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/prime_no.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flowcontrols/flowcontrols/cloth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flowcontrols/flowcontrols/elif.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flowcontrols/flowcontrols/ifelsedemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flowcontrols/flowcontrols/secondlargest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flowcontrols/flowcontrols/student.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flowcontrols/ifelsedemo.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +51,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cloth">
-    <configuration name="cloth" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.nested for">
+    <configuration name="even no" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/flowcontrols" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/Looping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/flowcontrols/cloth.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/even no.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="elif" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="even_no_square" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/flowcontrols" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/Looping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/flowcontrols/elif.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/even_no_square.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ifelsedemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="for loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/flowcontrols" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/Looping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/flowcontrols/ifelsedemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/for loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="secondlargest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="nested for" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/flowcontrols" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/flowcontrols/secondlargest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/nested for.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="student" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="prime_no" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/flowcontrols" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/Looping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/flowcontrols/student.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/prime_no.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.cloth" />
-        <item itemvalue="Python.secondlargest" />
-        <item itemvalue="Python.student" />
-        <item itemvalue="Python.elif" />
-        <item itemvalue="Python.ifelsedemo" />
+        <item itemvalue="Python.nested for" />
+        <item itemvalue="Python.prime_no" />
+        <item itemvalue="Python.even_no_square" />
+        <item itemvalue="Python.even no" />
+        <item itemvalue="Python.for loop" />
       </list>
     </recent_temporary>
   </component>
