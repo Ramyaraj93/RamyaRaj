@@ -2,21 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="250aeb8f-87a4-4ec8-8354-8172fc6bbd8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/even no.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/even_no_square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/for loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/nested for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/pattern 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/odd_no.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/prime_no b/w range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/prime_no.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/sum_prm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/pattern1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/pattern2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/pattern3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/flowcontrols/cloth.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/flowcontrols/elif.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/flowcontrols/ifelsedemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/flowcontrols/secondlargest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/flowcontrols/student.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/ifelsedemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/even no.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/even_no_square.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/for loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/nested for.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/nested for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/pattern 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/odd_no.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/prime_no b/w range.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/prime_no.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,71 +49,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.nested for">
-    <configuration name="even no" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="RamyaRaj" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/Looping" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/even no.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="even_no_square" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="RamyaRaj" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/Looping" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/even_no_square.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="for loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="RamyaRaj" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/Looping" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/for loop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="nested for" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.sum_prm">
+    <configuration name="pattern " type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +62,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/nested for.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/pattern .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prime_no" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pattern1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +79,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/Looping" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/prime_no.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/pattern1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pattern3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RamyaRaj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/pattern3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sum_prm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RamyaRaj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/Looping/for loop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/for loop/sum_prm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="w range" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RamyaRaj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/Looping/for loop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/for loop/w range.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.nested for" />
-        <item itemvalue="Python.prime_no" />
-        <item itemvalue="Python.even_no_square" />
-        <item itemvalue="Python.even no" />
-        <item itemvalue="Python.for loop" />
+        <item itemvalue="Python.sum_prm" />
+        <item itemvalue="Python.w range" />
+        <item itemvalue="Python.pattern3" />
+        <item itemvalue="Python.pattern " />
+        <item itemvalue="Python.pattern1" />
       </list>
     </recent_temporary>
   </component>
