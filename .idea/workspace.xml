@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="250aeb8f-87a4-4ec8-8354-8172fc6bbd8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/trial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/while_loop/cube_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/while_loop/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/while_loop/reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/while_loop/while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/Maths_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/fnc_with_arguments/odd_or_even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/fnc_with_return/add.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/sum_prm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/sum_prm.py" afterDir="false" />
     </list>
@@ -38,8 +46,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sum_prm">
-    <configuration name="pattern " type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.add">
+    <configuration name="add" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,11 +55,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions/fnc_with_return" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/pattern .py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/fnc_with_return/add.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -60,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pattern1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cube_fnc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/pattern1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/cube_fnc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pattern3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fnc_with_argmt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions/fnc_with_arguments" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/pattern3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/fnc_with_arguments/fnc_with_argmt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sum_prm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="odd_fnc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/Looping/for loop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/for loop/sum_prm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/odd_fnc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="w range" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="odd_or_even" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/Looping/for loop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions/fnc_with_arguments" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/for loop/w range.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/fnc_with_arguments/odd_or_even.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sum_prm" />
-        <item itemvalue="Python.w range" />
-        <item itemvalue="Python.pattern3" />
-        <item itemvalue="Python.pattern " />
-        <item itemvalue="Python.pattern1" />
+        <item itemvalue="Python.add" />
+        <item itemvalue="Python.odd_or_even" />
+        <item itemvalue="Python.fnc_with_argmt" />
+        <item itemvalue="Python.odd_fnc" />
+        <item itemvalue="Python.cube_fnc" />
       </list>
     </recent_temporary>
   </component>

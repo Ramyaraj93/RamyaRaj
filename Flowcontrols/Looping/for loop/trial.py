@@ -7,7 +7,7 @@ for no in range(ll,ul+1):
        for i in range(2,no):
            if(no%i==0):
                break
-       else:
-           print(no)
-           s=s+no
+           else:
+               print(no)
+               s=s+no
 print("sum of prime no:=",s)
