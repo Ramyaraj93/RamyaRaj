@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="250aeb8f-87a4-4ec8-8354-8172fc6bbd8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/sum_prm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/pattern1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/pattern2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/pattern3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/even no.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/even_no_square.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/for loop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/nested for.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/nested for.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/pattern 2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/odd_no.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/prime_no b/w range.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/prime_no.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/sum_prm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/sum_prm.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
