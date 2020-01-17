@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="250aeb8f-87a4-4ec8-8354-8172fc6bbd8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/trial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/while_loop/cube_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/while_loop/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/while_loop/reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/while_loop/while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/Maths_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/fnc_with_arguments/odd_or_even.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/fnc_with_return/add.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/sum_prm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/sum_prm.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
