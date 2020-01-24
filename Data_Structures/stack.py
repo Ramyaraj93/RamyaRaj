@@ -8,13 +8,16 @@ def pop():
     print("item popped out")
 
 def display():
-    print("inside display")
+    print("inside display",stk)
 
 while(n!=0):
-    option=int(input("se;ect option 1)push 2)pop 3)display"))
+    option=int(input("select option 1)push 2)pop 3)display"))
 
 if(option==1):
     push(10)
+    stk.append(10)
+    print(stk)
+
 elif(option==2):
     pop()
 elif(option==3):

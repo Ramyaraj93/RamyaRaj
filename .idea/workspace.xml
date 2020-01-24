@@ -2,23 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="250aeb8f-87a4-4ec8-8354-8172fc6bbd8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Data_Structures/stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RamyaRaj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuple/tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_collections/first_repeated_character_in_the_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_collections/least_positive_missing_integer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_collections/list_of_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set/find_first_repeated_character.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set/list/remove_duplicate_element_from_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set/set-diff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set/set-intersection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set/set-union.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set/set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set/students_passed_failed.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/RamyaRaj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/RamyaRaj.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/first_non_repeating_character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/most_frequent_word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/repeating_character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/word_count.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_collections/sum_of_pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_collections/sum_of_pairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structures/stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_collections/first_repeated_character_in_the_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_collections/first_repeated_character_in_the_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_collections/least_positive_missing_integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_collections/least_positive_missing_integer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/RamyaRaj" />
   </component>
   <component name="ProjectId" id="1WPraMBypVfvMrom8CaGxB6HDNY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -54,8 +47,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.first_repeated_character_in_the_list">
-    <configuration name="first_repeated_character_in_the_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.most_frequent_word">
+    <configuration name="dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,11 +56,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_collections" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RamyaRaj/dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_collections/first_repeated_character_in_the_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RamyaRaj/dictionary/dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="least_positive_missing_integer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="employee" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_collections" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RamyaRaj/dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_collections/least_positive_missing_integer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RamyaRaj/dictionary/employee.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set-diff" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="most_frequent_word" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/set" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RamyaRaj/dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set/set-diff.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RamyaRaj/dictionary/most_frequent_word.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set-intersection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="repeating_character" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/set" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RamyaRaj/dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set/set-intersection.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RamyaRaj/dictionary/repeating_character.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="students_passed_failed" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="word_count" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/set" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RamyaRaj/dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set/students_passed_failed.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RamyaRaj/dictionary/word_count.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.first_repeated_character_in_the_list" />
-        <item itemvalue="Python.least_positive_missing_integer" />
-        <item itemvalue="Python.students_passed_failed" />
-        <item itemvalue="Python.set-diff" />
-        <item itemvalue="Python.set-intersection" />
+        <item itemvalue="Python.most_frequent_word" />
+        <item itemvalue="Python.repeating_character" />
+        <item itemvalue="Python.word_count" />
+        <item itemvalue="Python.employee" />
+        <item itemvalue="Python.dictionary" />
       </list>
     </recent_temporary>
   </component>
