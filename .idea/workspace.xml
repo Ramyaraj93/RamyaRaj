@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="250aeb8f-87a4-4ec8-8354-8172fc6bbd8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Data_Structures/stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RamyaRaj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuple/tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_collections/first_repeated_character_in_the_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_collections/least_positive_missing_integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_collections/list_of_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set/find_first_repeated_character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set/list/remove_duplicate_element_from_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set/set-diff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set/set-intersection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set/set-union.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set/students_passed_failed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/RamyaRaj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/RamyaRaj.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_collections/sum_of_pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_collections/sum_of_pairs.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +37,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WPraMBypVfvMrom8CaGxB6HDNY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -37,8 +54,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.add">
-    <configuration name="add" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.first_repeated_character_in_the_list">
+    <configuration name="first_repeated_character_in_the_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions/fnc_with_return" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_collections" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/fnc_with_return/add.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_collections/first_repeated_character_in_the_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cube_fnc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="least_positive_missing_integer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_collections" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/cube_fnc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_collections/least_positive_missing_integer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fnc_with_argmt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="set-diff" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions/fnc_with_arguments" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/fnc_with_arguments/fnc_with_argmt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set/set-diff.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="odd_fnc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="set-intersection" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/odd_fnc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set/set-intersection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="odd_or_even" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="students_passed_failed" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions/fnc_with_arguments" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/fnc_with_arguments/odd_or_even.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set/students_passed_failed.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.add" />
-        <item itemvalue="Python.odd_or_even" />
-        <item itemvalue="Python.fnc_with_argmt" />
-        <item itemvalue="Python.odd_fnc" />
-        <item itemvalue="Python.cube_fnc" />
+        <item itemvalue="Python.first_repeated_character_in_the_list" />
+        <item itemvalue="Python.least_positive_missing_integer" />
+        <item itemvalue="Python.students_passed_failed" />
+        <item itemvalue="Python.set-diff" />
+        <item itemvalue="Python.set-intersection" />
       </list>
     </recent_temporary>
   </component>
