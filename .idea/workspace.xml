@@ -8,10 +8,15 @@
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/most_frequent_word.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/repeating_character.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/word_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/even_no.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/even_no_extract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/fake_friends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/num" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/num(row)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/word_count.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structures/stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/stack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_collections/first_repeated_character_in_the_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_collections/first_repeated_character_in_the_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_collections/least_positive_missing_integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_collections/least_positive_missing_integer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +32,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/RamyaRaj" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WPraMBypVfvMrom8CaGxB6HDNY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,8 +52,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.most_frequent_word">
-    <configuration name="dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.fake_friends">
+    <configuration name="even_no" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RamyaRaj/dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RamyaRaj/dictionary/dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file/even_no.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="employee" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="even_no_extract" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RamyaRaj/dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RamyaRaj/dictionary/employee.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file/even_no_extract.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="most_frequent_word" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fake_friends" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RamyaRaj/dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RamyaRaj/dictionary/most_frequent_word.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file/fake_friends.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="repeating_character" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="file" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RamyaRaj/dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RamyaRaj/dictionary/repeating_character.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file/file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RamyaRaj/dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RamyaRaj/dictionary/word_count.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file/word_count.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.most_frequent_word" />
-        <item itemvalue="Python.repeating_character" />
+        <item itemvalue="Python.fake_friends" />
         <item itemvalue="Python.word_count" />
-        <item itemvalue="Python.employee" />
-        <item itemvalue="Python.dictionary" />
+        <item itemvalue="Python.even_no" />
+        <item itemvalue="Python.even_no_extract" />
+        <item itemvalue="Python.file" />
       </list>
     </recent_temporary>
   </component>
