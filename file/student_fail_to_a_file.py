@@ -7,15 +7,17 @@ set1=set()
 set2=set()
 set3=set()
 for stud in fs:
-    stud.split(",")
-    set1.add(stud)
-    print(set1)
-for stud_pass in fp:
-    stud_pass.split(",")
-    set2.add(stud_pass)
-    print(set2)
+    m=set(stud.split(","))
+    print(m)
 
-set3=set1.difference(set2)
+
+for stud_pass in fp:
+    n=set(stud_pass.split(","))
+    print(n)
+
+
+
+set3=m.difference(n)
 print(set3)
 
 
