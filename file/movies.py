@@ -1,4 +1,5 @@
 f=open("/home/user/Downloads/movies.csv")
+f1=open("movies.txt","w") ######### Textfile to write the output
 dict={}
 for data in f:
     data=data.rstrip("\n")
@@ -20,4 +21,6 @@ print("max year=",tmp[0])
 tmp=sorted(tmp)
 print("min year=",tmp[0])
 
-
+for data in tmp:
+    f1.write(str(data))
+    f1.write("\n")

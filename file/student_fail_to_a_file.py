@@ -1,4 +1,4 @@
-fs=open("students.txt","r")
+ff=open("movies.txt","w")
 fp=open("students_pass.txt","r")
 ff=open("students_fail.txt","w")
 
