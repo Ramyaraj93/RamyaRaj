@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="250aeb8f-87a4-4ec8-8354-8172fc6bbd8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/s1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/odd_nos_in_a_range.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/employee.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/first_non_repeating_character.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/most_frequent_word.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/repeating_character.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/word_count.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/even no.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/even_nos_in_a_range.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/for loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/for loop.py" afterDir="false" />
