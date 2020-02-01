@@ -1,4 +1,4 @@
-#for i in range(0,10):
+#for i in range(0,10):  #print nos from 0 to 9
 #    print(i)
 
 #for i in range(0,10,2):    #even no b/w 0 to 10
