@@ -2,28 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="250aeb8f-87a4-4ec8-8354-8172fc6bbd8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exception_Handling/Exception_handling_keywords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exception_Handling/Exceptional_error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exception_Handling/exptin_hadling_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exception_Handling/file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exception_Handling/finally_keyword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exception_Handling/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exception_Handling/too_many_exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/odd_nos_in_a_range.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/employee.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/first_non_repeating_character.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/most_frequent_word.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/repeating_character.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/word_count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Expression/pre_defined_characters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Expression/quantifiers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Expression/reg_exp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Expression/reg_exp1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Expression/rule.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/movies.py" beforeDir="false" afterPath="$PROJECT_DIR$/file/movies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/student_fail_to_a_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/file/student_fail_to_a_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/even no.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/even_nos_in_a_range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/for loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/for loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/odd_no.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/prime_no.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/no_prime_or_not.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/LanguageFundamentals/first_Program.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/LanguageFundamentals/first_Program.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/LanguageFundamentals/firstprgm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/LanguageFundamentals/identifiers.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/LanguageFundamentals/identifiers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/LanguageFundamentals/swapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/LanguageFundamentals/swapping_2nos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/operators/arithmetic operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/operators/arithmetic operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/operators/incrementoperators.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/operators/incrementoperators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/operators/relationaloperators.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/operators/relationaloperators.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +37,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/RamyaRaj" />
   </component>
   <component name="ProjectId" id="1WPraMBypVfvMrom8CaGxB6HDNY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -59,8 +57,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.quantifiers">
-    <configuration name="file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.prime_no">
+    <configuration name="even_nos_in_a_range" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exception_Handling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exception_Handling/file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/even_nos_in_a_range.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pre_defined_characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="for loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regular_Expression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regular_Expression/pre_defined_characters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/for loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quantifiers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="odd_no" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regular_Expression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regular_Expression/quantifiers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/odd_nos_in_a_range.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reg_exp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="prime_no" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regular_Expression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regular_Expression/reg_exp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/no_prime_or_not.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reg_exp1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regular_Expression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/Looping/for loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regular_Expression/reg_exp1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/for loop/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.quantifiers" />
-        <item itemvalue="Python.pre_defined_characters" />
-        <item itemvalue="Python.reg_exp1" />
-        <item itemvalue="Python.reg_exp" />
-        <item itemvalue="Python.file" />
+        <item itemvalue="Python.prime_no" />
+        <item itemvalue="Python.odd_no" />
+        <item itemvalue="Python.even_nos_in_a_range" />
+        <item itemvalue="Python.for loop" />
+        <item itemvalue="Python.s1" />
       </list>
     </recent_temporary>
   </component>
