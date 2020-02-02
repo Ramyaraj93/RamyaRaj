@@ -2,41 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="250aeb8f-87a4-4ec8-8354-8172fc6bbd8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/odd_nos_in_a_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/for loop/no_prime_or_not.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/for loop/odd_nos_in_a_range.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/employee.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/first_non_repeating_character.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/most_frequent_word.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/repeating_character.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/word_count.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/DecisionMaking/cloth.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/DecisionMaking/cloth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/DecisionMaking/elif.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/DecisionMaking/elif.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/DecisionMaking/ifelsedemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/DecisionMaking/ifelsedemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/DecisionMaking/secondlargest.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/DecisionMaking/secondlargest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/DecisionMaking/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/DecisionMaking/student.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/even no.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/Looping/for loop/even no.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/even_no_square.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/Looping/for loop/even_no_square.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/for loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/Looping/for loop/for loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/odd_no.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/Looping/for loop/odd_no.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/prime_no.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/Looping/for loop/prime_no.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/prime_no_bw_range.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/Looping/for loop/prime_no_bw_range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/Looping/for loop/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/sum_prm.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/Looping/for loop/sum_prm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/for loop/trial.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/Looping/for loop/trial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/nested for.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/Looping/nested for loop/nested for.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/pattern .py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/Looping/nested for loop/pattern .py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/pattern1.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/Looping/nested for loop/pattern1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/pattern2.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/Looping/nested for loop/pattern2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/nested for loop/pattern3.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/Looping/nested for loop/pattern3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/while_loop/cube_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/Looping/while_loop/cube_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/while_loop/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/Looping/while_loop/factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/while_loop/reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/Looping/while_loop/reverse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flowcontrols/Looping/while_loop/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/Looping/while_loop/while.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/even no.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/even_nos_in_a_range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/for loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/for loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/DecisionMaking/cloth.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/DecisionMaking/cloth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/DecisionMaking/elif.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/DecisionMaking/elif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/DecisionMaking/ifelsedemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/DecisionMaking/ifelsedemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/DecisionMaking/secondlargest.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/DecisionMaking/secondlargest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/DecisionMaking/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/DecisionMaking/student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/even no.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/for loop/even_nos_in_a_range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/even_no_square.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/for loop/even_no_square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/for loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/for loop/for loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/odd_no.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/prime_no.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/no_prime_or_not.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/prime_no.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/prime_no_bw_range.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/for loop/prime_no_bw_range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/sum_prm.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/for loop/sum_prm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/trial.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/for loop/trial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/nested for loop/nested for.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/nested for loop/nested for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/nested for loop/pattern .py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/nested for loop/pattern .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/nested for loop/pattern1.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/nested for loop/pattern1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/nested for loop/pattern2.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/nested for loop/pattern2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/nested for loop/pattern3.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/nested for loop/pattern3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/while_loop/cube_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/while_loop/cube_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/while_loop/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/while_loop/factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/while_loop/reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/while_loop/reverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/while_loop/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/while_loop/while.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj/LanguageFundamentals/first_Program.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/LanguageFundamentals/first_Program.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj/LanguageFundamentals/firstprgm.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj/LanguageFundamentals/identifiers.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/LanguageFundamentals/identifiers.py" afterDir="false" />
@@ -44,6 +40,18 @@
       <change beforePath="$PROJECT_DIR$/RamyaRaj/operators/arithmetic operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/operators/arithmetic operators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj/operators/incrementoperators.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/operators/incrementoperators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj/operators/relationaloperators.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/operators/relationaloperators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_Expression/rule.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regular_Expression/valid_veh_reg_no_kerala.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/movies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file/movies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/for loop/even no.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/for loop/even_no_in_a_range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/for loop/even_no_square.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/for loop/even_no_square_in_a_range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/for loop/odd_no.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/for loop/odd_no_in_a_range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/for loop/prime_no.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/for loop/no_prime_or_not.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/for loop/prime_no_bw_range.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/for loop/prime_no_bw_range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/for loop/sum_prm.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/for loop/sum_prime_no_bw_a_range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/nested for loop/pattern .py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/nested for loop/pattern .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/nested for loop/pattern1.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/nested for loop/pattern1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/nested for loop/pattern2.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/nested for loop/pattern2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/nested for loop/pattern3.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/nested for loop/pattern3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +67,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/RamyaRaj" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WPraMBypVfvMrom8CaGxB6HDNY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -79,8 +87,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.prime_no">
-    <configuration name="even_nos_in_a_range" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.even_no">
+    <configuration name="cube_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flow_controls/Looping/while_loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/even_nos_in_a_range.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flow_controls/Looping/while_loop/cube_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="for loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="even_no" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/for loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file/even_no.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="odd_no" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pattern3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flow_controls/Looping/nested for loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/odd_nos_in_a_range.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flow_controls/Looping/nested for loop/pattern3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prime_no" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="student_fail_to_a_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/no_prime_or_not.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file/student_fail_to_a_file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="valid_veh_reg_no_kerala" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,11 +180,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flowcontrols/Looping/for loop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regular_Expression" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flowcontrols/Looping/for loop/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regular_Expression/valid_veh_reg_no_kerala.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.prime_no" />
-        <item itemvalue="Python.odd_no" />
-        <item itemvalue="Python.even_nos_in_a_range" />
-        <item itemvalue="Python.for loop" />
-        <item itemvalue="Python.s1" />
+        <item itemvalue="Python.even_no" />
+        <item itemvalue="Python.valid_veh_reg_no_kerala" />
+        <item itemvalue="Python.student_fail_to_a_file" />
+        <item itemvalue="Python.cube_sum" />
+        <item itemvalue="Python.pattern3" />
       </list>
     </recent_temporary>
   </component>
