@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="250aeb8f-87a4-4ec8-8354-8172fc6bbd8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Functional_programming/each_no_square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functional_programming/lambda_fn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functional_programming/map,filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functional_programming/no_square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functional_programming/student.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/for loop/no_prime_or_not.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/for loop/odd_nos_in_a_range.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/employee.py" afterDir="false" />
@@ -9,6 +14,14 @@
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/most_frequent_word.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/repeating_character.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/word_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_Expression/email_validate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_Expression/ph_no_validate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_Expression/ph_nos" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_Expression/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_Expression/trial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_Expression/veh_reg_no" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_Expression/veh_write" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_Expression/vehicle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/DecisionMaking/cloth.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/DecisionMaking/cloth.py" afterDir="false" />
@@ -40,18 +53,6 @@
       <change beforePath="$PROJECT_DIR$/RamyaRaj/operators/arithmetic operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/operators/arithmetic operators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj/operators/incrementoperators.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/operators/incrementoperators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj/operators/relationaloperators.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/operators/relationaloperators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regular_Expression/rule.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regular_Expression/valid_veh_reg_no_kerala.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/movies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file/movies.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/for loop/even no.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/for loop/even_no_in_a_range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/for loop/even_no_square.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/for loop/even_no_square_in_a_range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/for loop/odd_no.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/for loop/odd_no_in_a_range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/for loop/prime_no.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/for loop/no_prime_or_not.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/for loop/prime_no_bw_range.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/for loop/prime_no_bw_range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/for loop/sum_prm.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/for loop/sum_prime_no_bw_a_range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/nested for loop/pattern .py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/nested for loop/pattern .py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/nested for loop/pattern1.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/nested for loop/pattern1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/nested for loop/pattern2.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/nested for loop/pattern2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/nested for loop/pattern3.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/nested for loop/pattern3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,8 +88,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.even_no">
-    <configuration name="cube_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.map,filter">
+    <configuration name="each_no_square" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flow_controls/Looping/while_loop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functional_programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flow_controls/Looping/while_loop/cube_sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functional_programming/each_no_square.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,70 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="even_no" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="RamyaRaj" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file/even_no.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pattern3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="RamyaRaj" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flow_controls/Looping/nested for loop" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flow_controls/Looping/nested for loop/pattern3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="student_fail_to_a_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="RamyaRaj" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file/student_fail_to_a_file.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="valid_veh_reg_no_kerala" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="email_validate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RamyaRaj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,7 +122,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regular_Expression/valid_veh_reg_no_kerala.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regular_Expression/email_validate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lambda_fn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RamyaRaj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functional_programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functional_programming/lambda_fn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="map,filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RamyaRaj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functional_programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functional_programming/map,filter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ph_no_validate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RamyaRaj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regular_Expression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regular_Expression/ph_no_validate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.even_no" />
-        <item itemvalue="Python.valid_veh_reg_no_kerala" />
-        <item itemvalue="Python.student_fail_to_a_file" />
-        <item itemvalue="Python.cube_sum" />
-        <item itemvalue="Python.pattern3" />
+        <item itemvalue="Python.map,filter" />
+        <item itemvalue="Python.each_no_square" />
+        <item itemvalue="Python.lambda_fn" />
+        <item itemvalue="Python.ph_no_validate" />
+        <item itemvalue="Python.email_validate" />
       </list>
     </recent_temporary>
   </component>
