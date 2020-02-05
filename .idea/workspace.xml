@@ -4,18 +4,12 @@
     <list default="true" id="250aeb8f-87a4-4ec8-8354-8172fc6bbd8c" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/for loop/no_prime_or_not.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/for loop/odd_nos_in_a_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/dicnry.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/first_non_repeating_character.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/most_frequent_word.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/repeating_character.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/word_count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/global_keyword/global_keyword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_comprehension/Budget_Monitoring_System.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_comprehension/Budget_details" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_comprehension/Squares_of_elm_in_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functional_programming/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functional_programming/student.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functional_programming/student_data" beforeDir="false" afterPath="$PROJECT_DIR$/Functional_programming/student_data" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/DecisionMaking/cloth.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/DecisionMaking/cloth.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/DecisionMaking/elif.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/DecisionMaking/elif.py" afterDir="false" />
@@ -25,7 +19,7 @@
       <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/even no.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/for loop/even_nos_in_a_range.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/even_no_square.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/for loop/even_no_square.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/for loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/for loop/for loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/odd_no.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/odd_no.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/dictionary/employee.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/prime_no.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/prime_no_bw_range.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/for loop/prime_no_bw_range.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj/Flowcontrols/Looping/for loop/sum_prm.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/del/Looping/for loop/sum_prm.py" afterDir="false" />
@@ -46,9 +40,7 @@
       <change beforePath="$PROJECT_DIR$/RamyaRaj/operators/arithmetic operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/operators/arithmetic operators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj/operators/incrementoperators.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/operators/incrementoperators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RamyaRaj/operators/relationaloperators.py" beforeDir="false" afterPath="$PROJECT_DIR$/RamyaRaj/operators/relationaloperators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/while_loop/cube_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/while_loop/sum_of_cubes_of_each_digit_of_no.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/while_loop/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/while_loop/factorial_of_a_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flow_controls/Looping/while_loop/reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/flow_controls/Looping/while_loop/reverse_the_no.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global_keyword/global_keyword.py" beforeDir="false" afterPath="$PROJECT_DIR$/global_keyword/global_keyword.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +56,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/RamyaRaj" />
   </component>
   <component name="ProjectId" id="1WPraMBypVfvMrom8CaGxB6HDNY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
