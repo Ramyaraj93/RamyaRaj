@@ -1,5 +1,5 @@
 class student:
-    def __init__(self,id,name,tot_marks):
+    def __init__(self,id,name,tot_marks):  ####### constructor
         self.id=id
         self.name=name
         self.tot_marks=tot_marks
@@ -26,9 +26,26 @@ data=list(map(lambda ob:ob.name.upper(),lst))
 for temp in data:
     print(temp)
 
-data=list(filter(lambda ob:ob.str(tot_marks)>160,lst))
-for t in data:
-    print(str(t))
+anames=list(filter(lambda ob:ob.name[0]=='A',lst))
+for names in anames:
+    print("anames",names)
+
+
+passed=list(filter(lambda ob:int(ob.tot_marks)>160,lst))
+for stud in passed:
+    print("Students who passed:",stud)
+
+
+high_mark=max((ob.tot_marks,ob.name,ob.id) for ob in lst)
+print(high_mark)
+#print(type(high_mark))  ######### based on first argument(tot_marks) it works
+
+###### if more than 1 student has highest mark,to print the details of both students
+high_mark=max(ob.tot_marks for ob in lst)
+lst3=[(ob.name,ob.tot_marks,ob.id) for ob in lst if ob.tot_marks==high_mark]
+print(lst3)
+
+
 
 
 
